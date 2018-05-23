@@ -1,0 +1,22 @@
+{
+  "name": "purescript-pselm-svg",
+  "homepage": "https://github.com/pselm/svg",
+  "description": "Purescript implementation of Elm's SVG library",
+  "license": "BSD3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-pselm-virtual-dom": "pselm/virtual-dom#^0.1.1",
+    "purescript-pselm-core": "pselm/core#^4.0.4",
+    "purescript-pselm-html": "pselm/html#^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pselm/svg.git"
+  }
+}

@@ -7,7 +7,7 @@ import Control.Monad.Eff (Eff)
 import Control.Monad.IO (INFINITY, runIO)
 import Elm.Platform (runProgram)
 import Elm.Svg (polygon, rect, svg)
-import Html (Html, beginnerProgram)
+import Elm.Html (Html, beginnerProgram)
 import Prelude (Unit, unit, ($))
 
 

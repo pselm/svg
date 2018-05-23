@@ -94,7 +94,7 @@ import Control.Alternative (class Alternative, pure, (<|>))
 import Data.Foldable (class Foldable)
 import Elm.Json.Encode as Json
 import Elm.VirtualDom as VirtualDom
-import Html (Attribute, Html) as Html
+import Elm.Html (Attribute, Html) as Html
 import Prelude (map) as Virtual
 
 
